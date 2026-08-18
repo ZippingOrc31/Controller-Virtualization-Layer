@@ -2,12 +2,19 @@
 Allows you to use an x-input device as a keyboard and mouse for windows.  
 ⌨️ Radial Keyboard Controls
 Input--	Action
+
 D-Pad--	Select radial direction
+
 A/B/X/Y--	Type selected character
+
 LB/RB--	Switch character mode
+
 Hold L3+R3+LB+RB (1.2s)--	Show/Hide on-screen keyboard
+
 L3 double-tap--	Toggle overlay drag mode
+
 Right stick--	Move overlay while in drag mode
+
 
 ----Radial Mouse Control----
 Start radial_mouse.pyw
